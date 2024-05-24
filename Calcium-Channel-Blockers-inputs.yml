@@ -1,0 +1,243 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/calcium-channel-blockers-astella---primary.py
+inputModule3:
+  class: File
+  path: python/calcium-channel-blockers-360mg---primary.py
+inputModule4:
+  class: File
+  path: python/calcium-channel-blockers-150mg---primary.py
+inputModule5:
+  class: File
+  path: python/calcium-channel-blockers-viazem---primary.py
+inputModule6:
+  class: File
+  path: python/calcium-channel-blockers-motens---primary.py
+inputModule7:
+  class: File
+  path: python/calcium-channel-blockers-neofel---primary.py
+inputModule8:
+  class: File
+  path: python/calcium-channel-blockers-recordati---primary.py
+inputModule9:
+  class: File
+  path: python/calcium-channel-blockers-solution---primary.py
+inputModule10:
+  class: File
+  path: python/calcium-channel-blockers-125mg---primary.py
+inputModule11:
+  class: File
+  path: python/calcium-channel-blockers-slowrelease---primary.py
+inputModule12:
+  class: File
+  path: python/calcium-channel-blockers-nicardipine---primary.py
+inputModule13:
+  class: File
+  path: python/calcium-channel-blockers-100mg---primary.py
+inputModule14:
+  class: File
+  path: python/calcium-channel-blockers-adipine---primary.py
+inputModule15:
+  class: File
+  path: python/calcium-channel-blockers-bicarzem---primary.py
+inputModule16:
+  class: File
+  path: python/calcium-channel-blockers-200mg---primary.py
+inputModule17:
+  class: File
+  path: python/calcium-channel-blockers-cordilox---primary.py
+inputModule18:
+  class: File
+  path: python/calcium-channel-blockers-cabren---primary.py
+inputModule19:
+  class: File
+  path: python/calcium-channel-blockers-zemret---primary.py
+inputModule20:
+  class: File
+  path: python/calcium-channel-blockers-zemtard---primary.py
+inputModule21:
+  class: File
+  path: python/calcium-channel-blockers-valsartan---primary.py
+inputModule22:
+  class: File
+  path: python/eastern-calcium-channel-blockers---primary.py
+inputModule23:
+  class: File
+  path: python/calcium-channel-blockers-felotens---primary.py
+inputModule24:
+  class: File
+  path: python/calcium-channel-blockers-merck---primary.py
+inputModule25:
+  class: File
+  path: python/calcium-channel-blockers-pliva---primary.py
+inputModule26:
+  class: File
+  path: python/calcium-channel-blockers-discovery---primary.py
+inputModule27:
+  class: File
+  path: python/calcium-channel-blockers-napppharm---primary.py
+inputModule28:
+  class: File
+  path: python/calcium-channel-blockers-veratil---primary.py
+inputModule29:
+  class: File
+  path: python/calcium-channel-blockers-180mg---primary.py
+inputModule30:
+  class: File
+  path: python/calcium-channel-blockers-verapamil---primary.py
+inputModule31:
+  class: File
+  path: python/calcium-channel-blockers-angitil---primary.py
+inputModule32:
+  class: File
+  path: python/calcium-channel-blockers-nifopress---primary.py
+inputModule33:
+  class: File
+  path: python/calcium-channel-blockers-coated---primary.py
+inputModule34:
+  class: File
+  path: python/calcium-channel-blockers-abbott---primary.py
+inputModule35:
+  class: File
+  path: python/calcium-channel-blockers-novartis---primary.py
+inputModule36:
+  class: File
+  path: python/calcium-channel-blockers-hillcross---primary.py
+inputModule37:
+  class: File
+  path: python/calcium-channel-blockers-berkatens---primary.py
+inputModule38:
+  class: File
+  path: python/calcium-channel-blockers-120mg---primary.py
+inputModule39:
+  class: File
+  path: python/calcium-channel-blockers-300mg---primary.py
+inputModule40:
+  class: File
+  path: python/calcium-channel-blockers-neozipine---primary.py
+inputModule41:
+  class: File
+  path: python/calcium-channel-blockers-disogram---primary.py
+inputModule42:
+  class: File
+  path: python/calcium-channel-blockers-securon---primary.py
+inputModule43:
+  class: File
+  path: python/calcium-channel-blockers-suspension---primary.py
+inputModule44:
+  class: File
+  path: python/calcium-channel-blockers-tildiem---primary.py
+inputModule45:
+  class: File
+  path: python/calcium-channel-blockers-kenzem---primary.py
+inputModule46:
+  class: File
+  path: python/calcium-channel-blockers-elanpharma---primary.py
+inputModule47:
+  class: File
+  path: python/calcium-channel-blockers-felogen---primary.py
+inputModule48:
+  class: File
+  path: python/calcium-channel-blockers-nimodrel---primary.py
+inputModule49:
+  class: File
+  path: python/calcium-channel-blockers-calanif---primary.py
+inputModule50:
+  class: File
+  path: python/calcium-channel-blockers-sugarfree---primary.py
+inputModule51:
+  class: File
+  path: python/calcium-channel-blockers-verapress---primary.py
+inputModule52:
+  class: File
+  path: python/calcium-channel-blockers-dilzem---primary.py
+inputModule53:
+  class: File
+  path: python/calcium-channel-blockers-triapin---primary.py
+inputModule54:
+  class: File
+  path: python/calcium-channel-blockers-lacidipine---primary.py
+inputModule55:
+  class: File
+  path: python/calcium-channel-blockers-liquid---primary.py
+inputModule56:
+  class: File
+  path: python/calcium-channel-blockers-daiicsank---primary.py
+inputModule57:
+  class: File
+  path: python/calcium-channel-blockers-hydrochlorothiazide---primary.py
+inputModule58:
+  class: File
+  path: python/calcium-channel-blockers-lercanidipine---primary.py
+inputModule59:
+  class: File
+  path: python/calcium-channel-blockers-cardioplen---primary.py
+inputModule60:
+  class: File
+  path: python/calcium-channel-blockers-roche---primary.py
+inputModule61:
+  class: File
+  path: python/calcium-channel-blockers-mercury---primary.py
+inputModule62:
+  class: File
+  path: python/calcium-channel-blockers-angiopine---primary.py
+inputModule63:
+  class: File
+  path: python/calcium-channel-blockers-actavis---primary.py
+inputModule64:
+  class: File
+  path: python/calcium-channel-blockers-pfizer---primary.py
+inputModule65:
+  class: File
+  path: python/calcium-channel-blockers-chanelle---primary.py
+inputModule66:
+  class: File
+  path: python/calcium-channel-blockers-zurich---primary.py
+inputModule67:
+  class: File
+  path: python/calcium-channel-blockers-medoxomil---primary.py
+inputModule68:
+  class: File
+  path: python/calcium-channel-blockers-calchan---primary.py
+inputModule69:
+  class: File
+  path: python/calcium-channel-blockers-parmid---primary.py
+inputModule70:
+  class: File
+  path: python/calcium-channel-blockers-cardilate---primary.py
+inputModule71:
+  class: File
+  path: python/calcium-channel-blockers-ranbaxy---primary.py
+inputModule72:
+  class: File
+  path: python/calcium-channel-blockers-adalat---primary.py
+inputModule73:
+  class: File
+  path: python/calcium-channel-blockers-tensipine---primary.py
+inputModule74:
+  class: File
+  path: python/calcium-channel-blockers-valni---primary.py
+inputModule75:
+  class: File
+  path: python/calcium-channel-blockers-nivaten---primary.py
+inputModule76:
+  class: File
+  path: python/calcium-channel-blockers-mibefradil---primary.py
+inputModule77:
+  class: File
+  path: python/calcium-channel-blockers-zentiva---primary.py
+inputModule78:
+  class: File
+  path: python/calcium-channel-blockers-160mg---primary.py
+inputModule79:
+  class: File
+  path: python/calcium-channel-blockers-chiesi---primary.py
+inputModule80:
+  class: File
+  path: python/calcium-channel-blockers-bayer---primary.py
+inputModule81:
+  class: File
+  path: python/output-cases.py
